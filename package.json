@@ -1,0 +1,11 @@
+{
+  "name": "simulatebankaccount",
+  "version": "1.0.0",
+  "description": "bank account simulation with API's",
+  "main": "bankAccount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nosipho Manyase",
+  "license": "ISC"
+}
